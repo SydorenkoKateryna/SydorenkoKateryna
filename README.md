@@ -1,16 +1,12 @@
-<!-- # Hi there 👋
-## I am Kateryna, a front-end developer from Ukraine 🇺🇦
-– 🌱 I’m currently learning React.<br>
-– ✉️ How to reach me: **sydorenko.k.ih@gmail.com**  -->
-
 # Hi there 👋, I'm Kateryna
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Front-end+developer+from+Ukraine.;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-## 🙂 About:
+## ☕️ About me:
 
 – 🌱 I’m currently learning React.<br>
-– ✉️ How to reach me: **sydorenko.k.ih@gmail.com**
+<!-- – ✉️ How to reach me: **sydorenko.k.ih@gmail.com** -->
+– ✉️ How to reach me: <a href="mailto:sydorenko.k.ih@gmail.com">Gmail</a>
 
 ## 🔧 Technologies:
 
