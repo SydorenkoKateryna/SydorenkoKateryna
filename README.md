@@ -5,7 +5,6 @@
 ## ☕️ About me:
 
 – 🌱 I’m currently learning React.<br>
-<!-- – ✉️ How to reach me: **sydorenko.k.ih@gmail.com** -->
 – ✉️ How to reach me: <a href="mailto:sydorenko.k.ih@gmail.com">Gmail</a>
 
 ## 🔧 Technologies:
