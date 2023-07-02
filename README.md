@@ -4,8 +4,9 @@
 
 ## ☕️ About me:
 
-– 🌱 I’m currently learning React.<br>
-– ✉️ How to reach me: <a href="mailto:sydorenko.k.ih@gmail.com">Gmail</a>
+– 🙂 I'm actively expanding my knowledge in React, honing my skills to develop dynamic and interactive web applications.<br>
+– 🌱 Additionally, I'm currently learning Node.js and exploring its potential for server-side development.<br>
+– ✉️ How to reach me: <a href="mailto:sydorenko.k.ih@gmail.com">Gmail</a> | <a href="https://t.me/kateryna_sydorenko">Telegram</a>
 
 ## 🔧 Technologies:
 
@@ -13,9 +14,9 @@
 
 ## ⭐️ React apps:
 
-– 📒 <a href="https://sydorenkokateryna.github.io/goit-react-hw-06-phonebook/">Redux-Phonebook</a><br>
-– 🎬 <a href="https://sydorenkokateryna.github.io/goit-react-hw-05-movies/">Movie-Finder</a><br>
-– 🔍 <a href="https://sydorenkokateryna.github.io/goit-react-hw-04-images/">Pixabay-Image-Finder</a>
+– 📘 <a href="https://sydorenkokateryna.github.io/goit-react-hw-08-phonebook/">Phonebook</a><br>
+– 🎬 <a href="https://sydorenkokateryna.github.io/goit-react-hw-05-movies/">React-Movie-App</a><br>
+– 🔍 <a href="https://sydorenkokateryna.github.io/goit-react-hw-04-images/">Image-Search-App</a>
 
 ## ⭐️ JS projects:
 
@@ -25,5 +26,5 @@
 ## ⭐️ HTML and CSS projects:
 
 – 🖥️ <a href="https://sydorenkokateryna.github.io/goit-markup-hw-08/">WebStudio</a><br>
-– 😎 <a href="https://sydorenkokateryna.github.io/barber-shop/">BarberShop</a><br>
-– 🍧 Team project: <a href="https://usai2005.github.io/ice-cream-project-2/">Ice-Cream</a>
+– ✂️ <a href="https://sydorenkokateryna.github.io/barber-shop/">Barbershop</a><br>
+– 🍧 Team project: <a href="https://usai2005.github.io/ice-cream-project-2/">IceCream</a>
